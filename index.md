@@ -1,1 +1,5 @@
-THis is a markdown sample.
+---
+layout: page
+---
+
+This is a markdown sample.
