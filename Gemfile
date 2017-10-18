@@ -1,5 +1,7 @@
-midnight
-minima
-cayman
-hack
-gem "github-pages", group: :jekyll_plugins
+
+source "https://rubygems.org” do
+gem "jekyll-theme-slate"
+gem "jekyll-theme-midnight"
+gem "jekyll-theme-cayman"
+gem "jekyll-theme-hacker"
+end
