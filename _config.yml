@@ -1,5 +1,5 @@
-theme: jekyll-theme-midnight
-title: BiT21 OpenSourceProhect
-description: BiT21 is a software company passioned on helping people change their lifes making smart use of technology. Software is magic, and developers are the magicians.
+theme: midnight
+title: BiT21 OpenSource Projects
+description: BiT21 is a software company passioned on helping people change their lives making smart use of technology. Software is magic, and developers are the magicians.
 
-show_downloads: "true"
+show_downloads: true
