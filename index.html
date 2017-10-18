@@ -4,5 +4,13 @@
 		<h1>Under Construction</h1>
 		<p>We have just moved to GitHub Pages and we are working on our first site. Please bear with us a little more.</p>
 		<p>In the meantime you can find us as the <a href="https://github.com/BiT21">GitHub page</a>. </p> 
+		<ul>
+			{% for post in site.posts %}
+			  <li>
+				<a href="{{ post.url }}">{{ post.title }}</a>
+			  </li>
+			{% endfor %}
+		  </ul>
+		  
 	</body>
 </html>
